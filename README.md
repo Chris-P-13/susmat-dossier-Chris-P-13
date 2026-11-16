@@ -33,4 +33,6 @@ Reference: Lai et al., "Upcycling plastic waste into fully recyclable composites
 
 ---
 
+## Crosswalk built in Lesson 4.
+
 *This dossier was created as part of the [Sus-Mat NRT](https://susmat-nrt.web.app/) training program.*
