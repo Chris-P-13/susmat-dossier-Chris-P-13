@@ -1,7 +1,7 @@
 # Lab Notebook: Sus Mat Training Data
 
 **Author:** Christian Pirnot | **GitHub:** Chris-P-13
-**Repository:** [link to your repo]
+**Repository:** https://github.com/Chris-P-13/susmat-dossier-Chris-P-13
 **Canonical data store:** (add once established)
 
 > **Standard:** Each entry should contain enough detail for someone
