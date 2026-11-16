@@ -1,6 +1,6 @@
-# Lab Notebook: [Your Project Name]
+# Lab Notebook: Sus Mat Training Data
 
-**Author:** [Your Name] | **GitHub:** [your username]
+**Author:** Christian Pirnot | **GitHub:** Chris-P-13
 **Repository:** [link to your repo]
 **Canonical data store:** (add once established)
 
